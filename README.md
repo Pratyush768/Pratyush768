@@ -1,70 +1,31 @@
-# 💫 Hi 👋, I'm Pratyush Kumar Sahoo
-**A passionate Full-Stack Developer & AI Enthusiast from India**
+# 💫 About Me:
+🔭 Currently working on: AI-powered tutor system & full-stack projects<br>🌱 Currently learning: Spring AI, LLM integration, and scalable architectures<br>👯 Looking to collaborate on: Full-stack apps, AI/ML-based tools, and research projects<br>🤔 Looking for help with: Innovative AI integrations in EdTech & HealthTech<br>💬 Ask me about: Full-stack development, AI integrations, debugging & problem solving<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy building projects that combine AI with real-world applications<br>
 
-📧 **Email Me:** pratyushkumarsahoo576@gmail.com  
-📞 **Contact:** +91-9668590217  
-🔗 **LinkedIn:** [Pratyush Kumar Sahoo](https://www.linkedin.com/in/pratyushkumarsahoo)
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyush___sahoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratyush Kumar Sahoo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyushkumarsahoo576@gmail.com) 
 
-- 🔭 **Currently working on:** AI-powered tutor system & full-stack projects  
-- 🌱 **Currently learning:** Spring AI, LLM integration, and scalable architectures  
-- 👯 **Looking to collaborate on:** Full-stack apps, AI/ML-based tools, and research projects  
-- 🤔 **Looking for help with:** Innovative AI integrations in EdTech & HealthTech  
-- 💬 **Ask me about:** Full-stack development, AI integrations, debugging & problem solving  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I enjoy building projects that combine AI with real-world applications  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pratyush768&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pratyush768&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush768&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🏆 Achievements
-- Finalist – **Google Dev Sprint ’25 Hackathon**  
-- Participant – **Smart India Hackathon 2024**  
-- **HackerRank 5-star** in Java, Python (Basics), and CSS  
-- **Pathani Samanta Mathematics Talent Scholarship (PSMTS)**  
-- Patent Publication (2025): *Brain-Computer Interface (BCI) System for Wheelchair Control*  
-
----
-
-## 💻 Tech Stack
-**Programming:** Java, C, C++, Python, JavaScript  
-**Frameworks:** Spring Boot, Spring AI, React, Node.js, Next.js, REST APIs, WebSocket  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Postman, JIRA, Agile  
-**Core:** Full-Stack Development, Debugging, AI Integration, Visual Design  
-
----
-
-## 🚀 Projects
-### 🏨 Noble Nights (Hotel Booking System) – MERN Stack (Jun 2025 – Jul 2025)
-- Built a full-stack hotel booking system using **MongoDB, Express.js, React, Node.js**.  
-- Designed **admin panel** for managing rooms, bookings, and user data.  
-- Added **authentication & validation** for secure bookings.  
-
-### 📚 Personalized Learning Assistant (AI Tutor System) – Spring AI, Python, React (Jul 2025 – Aug 2025)
-- Developed an **AI-powered tutor** integrating **Spring AI + Python ML models**.  
-- Implemented **recommendation engine** for adaptive learning paths.  
-- Integrated **LLM-based chatbot** for problem-solving & explanations.  
-- Enhanced engagement via **real-time feedback React UI**.  
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-sahoo&theme=dark&hide_border=false&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=pratyush-sahoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratyush-sahoo&theme=dark&hide_border=false)  
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyushkumarsahoo)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyushkumarsahoo576@gmail.com)  
-
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pratyush768&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Pratyush768&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created for GitHub profile -->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pratyush___sahoo) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
