@@ -17,7 +17,7 @@
     src="https://profile-readme-generator.com/assets/snake.svg"
     alt="Animated snake graphic"
     loading="lazy"
-    width="280"
+    width="680"
     style="display:block; height:auto;"
   />
 </div>
