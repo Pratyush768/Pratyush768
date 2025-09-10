@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pratyush768&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pratyush768&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush768&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align="center">
+<div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
